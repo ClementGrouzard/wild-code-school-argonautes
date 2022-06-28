@@ -1,0 +1,16 @@
+<form class="new-member-form" (ngSubmit)="onSubmit()">
+
+    <label for="name">Nom de l&apos;Argonaute</label>
+
+    <input 
+    id="name" 
+    name="name" 
+    [(ngModel)]="name" 
+    type="text" 
+    placeholder="Charalampos" />
+
+    <input 
+    type="submit"
+    value="Envoyer" />
+  </form>
+  

@@ -1,0 +1,32 @@
+{
+  "crewmen": [
+    {
+      "id": 1,
+      "name": "Eleftheria"
+    },
+    {
+      "id": 2,
+      "name": "Gennadios"
+    },
+    {
+      "id": 3,
+      "name": "Lysimachos"
+    },
+    {
+      "name": "Acaste",
+      "id": 4
+    },
+    {
+      "name": "Idas",
+      "id": 5
+    },
+    {
+      "name": "Léitos",
+      "id": 6
+    },
+    {
+      "name": "Ancée fils de Lycurgue",
+      "id": 7
+    }
+  ]
+}

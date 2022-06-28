@@ -1,0 +1,6 @@
+  <app-add-crewman (onAddCrewman)="addCrewman($event)"></app-add-crewman>
+
+  <h2>Membres de l'équipage</h2>
+  <section class="member-list">
+    <app-crew-list *ngFor="let crewman of crewmen" [crewman]="crewman"></app-crew-list>
+  </section>
